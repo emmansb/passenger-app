@@ -13,9 +13,6 @@ function save() {
     saveEl.innerHTML += msg
     countEl.innerText = 0
     count = 0
-
-    
-
 }
 
 // save();
